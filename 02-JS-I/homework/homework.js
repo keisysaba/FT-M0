@@ -36,45 +36,60 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  var suma = x + y;
+  var suma = 2 + 3 ;
   return suma;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  var resta = x - y;
+  var resta = 2 - 3;
   return resta;
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  var multiplicación = x * y;
+  var multiplicación = 2 * 3;
   return multiplicación;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
+  var división = 2 / 3;
+  return división;
 }
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
+  var x = 2;
+  var y = 3;
+  if (x===y){
+    return true;
+  }
 }
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
+  var str1 = "buenas";
+  var str2 = "tardes";
+  if (str1.length == str2.length);
+  return true;
 }
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
+  if (num < 90){
+    return true
+  }
+
 }
 
 function mayorQueCincuenta(num) {
