@@ -1,0 +1,8 @@
+Variables: las variables nos permiten almacenar un valor con un nombre. Dependiendo del tipo de variable, esta se puede ir modificando o no.
+Strings: Los strings son un tipo de dato, en este caso, son palabras o texto que van entre comillas. Las variables pueden almacenar también como valor una string.
+Funciones: son bloques de código diseñados para cumplir una tarea especiífica. Son ejecutadas cuando algo las invoca xd. 
+Argumentos: Es un valor de la cual la funcion debe disponer para obtener el resultado de la función.
+Return: da el resultado de alguna variable, operación, de una función, etc.
+Declaraciones if: Nos permite ejercutar alguna función a base de si se cumple o si pasa o no algo. 
+Valores booleanos: son un tipo de dato que tiene solo dos valores true o false. 
+                   → If value parameter is omitted or is 0, -0, null, false, NaN, undefined, or the empty string (""), the object has an initial value of false.
